@@ -6,7 +6,7 @@ This repository is based on:
 
 **Yan et al. (2025)**  
 *Single-cell RNA Sequencing Analysis of Sputum Cell Transcriptomes Reveals Pathways and Communication Networks That Contribute to the Pathogenesis of Asthma*  
-**bioRxiv DOI:** `10.1101/2025.03.31.646405`
+**bioRxiv DOI:** `[10.1101/2025.03.31.646405](https://www.biorxiv.org/content/10.1101/2025.03.31.646405v1)`
 
 The goal is to reproduce key components of the published analysis and build additional analyses to evaluate the dataset independently.
 
